@@ -1,0 +1,4 @@
+1) Git fue creado por Linus Torvalds en 2005  para ser utilizado en el desarrollo del kernel de Linux.
+2) GitHub pertenece actualmente a Microsoft. Con el control de GitHub, Micronansoft se hace también con la comunidad de desarrollo más nutrida del planeta.
+3) Si, por ejemplo se puede trabjar desde la interfaz gráfica de Visual Studio Code.
+
